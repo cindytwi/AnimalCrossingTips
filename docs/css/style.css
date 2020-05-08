@@ -1,0 +1,47 @@
+* {margin: 0; padding: 0}
+
+body{
+    font-family: Arial;
+
+}
+header {
+    background: mediumspringgreen ;
+    padding: 20px;
+    margin: 10px;
+
+}
+.site-title{
+    text-align: center;
+    text-decoration: none;
+    color: goldenrod;
+    text-emphasis: shadow 10px;;
+    padding: 10px;
+    
+}
+
+.page-title{
+    text-align: center;
+}
+.main-menu{
+    text-align: center;
+    padding: 20px;
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.menu-item {
+    margin: 0 20px;
+}
+.home-image {
+    width:  000px   ;
+    height:  100px  ;
+    object-fit: cover;
+}
+.intro{
+    text-align: center;
+    background-color: lightskyblue;
+}
+.body{
+    text-align: center;
+    
+}
