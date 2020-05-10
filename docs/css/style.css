@@ -43,5 +43,13 @@ header {
 }
 .body{
     text-align: center;
-    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.visitor {
+ width: 400;
+ height:200px;
+ display:
+}
+.turnips{
+    width: 600px;
 }
