@@ -7,7 +7,7 @@ body{
 header {
     background: mediumspringgreen ;
     padding: 20px;
-    margin: 10px;
+    margin: 0px;
 
 }
 .site-title{
@@ -89,7 +89,7 @@ header {
 } 
 
 .close:hover {
-    
+   cursor:pointer; 
 }
 
 .modal-background {
@@ -110,4 +110,12 @@ header {
 .characters{
     width:300px;
     height: 200px;
+}
+.modal-button{
+font-size: medium;
+background-position: center;
+}
+.button{
+    text-align: center;
+    background-color: mediumspringgreen;
 }
