@@ -10,4 +10,17 @@ $(".close").click(function(){
     $(".modal").toggle();
 })
 
+$(window).scroll(function(){
+
+    if($(window).scrollTop() > 1000) {
+     $(".intro").css("background-color","mediumspringgreen");   
+    }
+    if($(window).scrollTop() > 1000) {
+        $("header").css("background-color","aqua");   
+       }
+
+})
+
+
+
 })

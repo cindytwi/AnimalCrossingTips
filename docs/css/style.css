@@ -42,6 +42,7 @@ header {
     display:flex;
     justify-content: center;
     text-decoration: none;
+    
 }
 .logo{
     width: 250px;
@@ -50,6 +51,12 @@ header {
 }
 .menu-item {
     margin: 0 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border: 3px solid white;
+    color:black;
+    
+
 }
 .home-image {
     width:  000px   ;
@@ -110,6 +117,7 @@ header {
 .characters{
     width:300px;
     height: 200px;
+    display:inline-flex;
 }
 .modal-button{
 font-size: medium;
