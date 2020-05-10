@@ -87,6 +87,8 @@ header {
     top:5%;
     right:5%;
 } 
+.close:hover(
+)
 .modal-background {
     background-color: rgba(0,0,0,.5 );
     width:100%;
@@ -97,4 +99,12 @@ header {
 }
 .modal{
     display:none;
+}
+.fruit{
+    width: 250px;
+}
+
+.characters{
+    width:300px;
+    height: 200px;
 }
